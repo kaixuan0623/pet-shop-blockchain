@@ -2,6 +2,8 @@
 
 ### Based on the Pet shop tutorial
 
+https://www.trufflesuite.com/tutorials/pet-shop
+
 ### Features
 
 1. How many pet have been sold?
