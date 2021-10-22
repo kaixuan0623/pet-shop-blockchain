@@ -2,7 +2,7 @@
 
 ### Based on the Pet shop tutorial
 
-https://www.trufflesuite.com/tutorials/pet-shop
+https://www.trufflesuite.com/tutorial
 
 ### Features
 
